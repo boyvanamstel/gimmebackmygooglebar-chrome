@@ -2,11 +2,11 @@
 
 This is a simple Chrome Extension that brings back the 'old' black Google Bar, as seen before the latest restyle.
 
-> Notice: This Extension is also available in the Chrome Web Store, for free :).
+> Notice: This Extension is also available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/kfohjdiahmhjbenfohpjplbffoeabkhj), for free :).
 
 # What does it do exactly?
 
-The old Google Bar resided at the top of your screend and provided quick and easy access to your favorite Google pages. With the latest restyle they moved these links to a dropdown menu, which opens after clicking the Google logo.
+The old Google Bar resided at the top of your screen and provided quick and easy access to your favorite Google pages. With the latest restyle they moved these links to a dropdown menu, which opens after clicking the Google logo.
 
 This Chrome Extension makes the old bar re-appear, minus the login and personal stuff.
 
