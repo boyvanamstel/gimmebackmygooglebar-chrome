@@ -1,0 +1,25 @@
+{
+  "name": "Gimme back my Google Bar!",
+  "version": "1.0",
+  "description": "Shows the 'old' Google Bar, as seen before the latest restyle.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.dangercove.com/*",
+        "*://*.dangercove.nl/*",
+        "*://*.google.nl/*",
+        "*://*.google.com/*",
+        "*://*.google.fr/*",
+        "*://*.google.de/*",
+        "*://*.google.jp/*"
+      ],
+      "css": ["css/style.css"],
+      "js": ["js/jquery-1.7.1.min.js","js/setup.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  }
+}
